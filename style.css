@@ -19,6 +19,9 @@ button {
 a {
     color: brown;
 }
+li {
+    padding-bottom: 4px;
+}
 
 .Box .content {
     border: 4px solid burlywood;
