@@ -4,7 +4,11 @@ body {
 }
 
 button {
-    background-color: rgba(255, 255, 255, 0.212);
+    background-color: rgba(222, 14, 14, 0.212);
+    border: none;
+    text-align: center;
+    padding: 8px 12px;
+    border-radius: 10px;
 }
 
 .Box {
@@ -19,14 +23,21 @@ button {
 a {
     color: brown;
 }
+a:hover {
+    color: burlywood;
+    text-decoration:wavy;
+    font-size: 1.2em;
+}
 li {
     padding-bottom: 4px;
 }
 
 .Box .content {
+    height: 150px;
     width: 400px;
     border: 4px solid burlywood;
     margin: 0 auto;
     padding: 16px;
+    border-radius: 10px;
 }
 
