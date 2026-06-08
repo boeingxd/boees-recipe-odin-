@@ -9,7 +9,7 @@ button {
 
 .Box {
     margin: 12px auto;
-    width: 400px;
+    width: 800px;
 }
 #title {
     text-align: center;
@@ -24,7 +24,9 @@ li {
 }
 
 .Box .content {
+    width: 400px;
     border: 4px solid burlywood;
+    margin: 0 auto;
     padding: 16px;
 }
 
